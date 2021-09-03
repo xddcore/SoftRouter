@@ -22,6 +22,7 @@ rm -f /tmp/libcap-bin_*.ipk
 #https://github.com/vernesong/OpenClash/releases
 wget --no-check-certificate https://github.com/vernesong/OpenClash/releases/download/v0.43.01-beta/luci-app-openclash_0.43.01-beta_all.ipk
 opkg install /tmp/luci-app-openclash_*.ipk
+rm -f /tmp/luci-app-openclash_*.ipk
 
 # install openclash Dev core
 mkdir -p /etc/openclash/core/
