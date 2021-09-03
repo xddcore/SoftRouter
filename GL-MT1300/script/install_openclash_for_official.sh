@@ -30,3 +30,8 @@ wget https://github.com/vernesong/OpenClash/releases/download/Clash/clash-linux-
 tar zxvf clash-linux-mipsle-*.tar.gz 
 rm -f clash-linux-mipsle-*.gz
 
+echo Author: xddcore
+echo Date:03/09/2021
+echo 1034029664@qq.com
+echo Finish Install OpenClash,Enjoy it!
+
