@@ -19,3 +19,14 @@
 >openwrt的时区需要和你的机场时区同步
 
 >实测Redir-Host(兼容)模式运行效果更好，Fake-IP模式不太稳定
+
+# 使用说明
+### 03/09/2021
+在本次更新中，重新优化了openclash安装脚本的信息。如果要将OpenClash安装到你的GL.iNET路由器上，只需使用`winscp`将脚本传入路由器，并用`putty`连接路由器SSH运行```dash install_openclash_for_official.sh```命令即可。
+install_openclash_for_official.sh将会自动安装openclash所需环境，并安装libcap与libcap-bin，自动下载安装Dev内核。
+最后导入一下机场的自动配置文件，启动OpenClash，And Enjoy it!
+
+# 有用的链接
+> 1.OpenClash:https://github.com/vernesong/OpenClash
+> 2.OpenWrt Package: https://downloads.openwrt.org/snapshots/packages/mipsel_24kc/base/
+

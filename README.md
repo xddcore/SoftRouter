@@ -6,3 +6,4 @@
 ## 本仓库支持的软路由
 1. GL.inet GL-MT1300(OpenClash in side)
 2. GL.inet GL-MT300N-V2(SSR plus+ inside)
+3. GL.inet GL-AR300M16(OpenClash in side)
