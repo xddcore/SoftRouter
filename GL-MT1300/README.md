@@ -28,5 +28,6 @@ install_openclash_for_official.sh将会自动安装openclash所需环境，并�
 
 # 有用的链接
 > 1.OpenClash:https://github.com/vernesong/OpenClash
+
 > 2.OpenWrt Package: https://downloads.openwrt.org/snapshots/packages/mipsel_24kc/base/
 
