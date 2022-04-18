@@ -26,6 +26,8 @@
 install_openclash_for_official.sh将会自动安装openclash所需环境，并安装libcap与libcap-bin，自动下载安装Dev内核。
 最后导入一下机场的自动配置文件，启动OpenClash，And Enjoy it!
 
+### 18/04/2022
+在本次更新中，新增了外部SD Card和U盘挂载脚本。(片内16MB Flash实在是太小了，装个openclash就没了)。此脚本可以将SD卡或U盘挂载到/overlay。
 # 有用的链接
 > 1.OpenClash:https://github.com/vernesong/OpenClash
 
